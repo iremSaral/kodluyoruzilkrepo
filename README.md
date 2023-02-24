@@ -3,13 +3,13 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/git-kurulumu) eğitimi k
 # Installation
 Öncelikle projeyi clonelayın.[Proje](https://github.com/iremSaral/kodluyoruzilkrepo.git)
 
-'
+' python
 git clone https://github.com/iremSaral/kodluyoruzilkrepo.git
 '
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-'''
+''' python
 cd kodluyoruzilkrepo
 code .
 '''
